@@ -1,0 +1,32 @@
+h1 {
+  font-size: 20px;
+  color: black;
+  text-align: center;
+  padding: 25px;
+  border-bottom: 3px solid blue;
+  width: fit-content;
+  margin: auto;
+}
+div {
+  display: block;
+  width: fit-content;
+  margin: auto;
+}
+
+input {
+  padding: 12px;
+}
+
+label {
+  font-size: 18px;
+  margin: 0 25px;
+}
+
+button {
+  padding: 15px 25px;
+  outline: none;
+}
+
+#numberz {
+  text-align: center;
+}
